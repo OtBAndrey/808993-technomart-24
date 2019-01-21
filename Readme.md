@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Andrey Zaikin](https://up.htmlacademy.ru/htmlcss/24/user/808993).
-* Наставник: `Неизвестно`.
+* Наставник: [Юлия Цапова] (https://htmlacademy.ru/profile/id479537) .
 
 ---
 
